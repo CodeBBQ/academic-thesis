@@ -15,7 +15,8 @@ Selected technical contributions:
 - Geometric collision avoidance without dedicated proximity sensors.
 - Automated scanning across different positions and angles of incidence.
 Relevant sections: Chapter 4 — Five Axis Scanner and Functional Demonstration; Chapter 6 — Cross Check with Different Methods.
-[Read Master's Thesis](master/Master_Thesis_2019.pdf)
+
+[Read Master's Thesis](master/master_thesis_bastian-querner_benjamin.pdf)
 
 ## **PhD Dissertation (2024)**
 
@@ -30,4 +31,4 @@ Selected technical contributions:
 Relevant sections: Chapter 3 — Experimental Setup; Chapter 5 — Calibration and Data Analysis.
 Read PhD Dissertation
 
-[Read PhD Dissertation](https://doi.org/10.18452/29358)
+[Read PhD Dissertation](phd/dissertation_bastian-querner_benjamin.pdf) [DOI](https://doi.org/10.18452/29358)
